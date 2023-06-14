@@ -4,7 +4,7 @@
 
 Este es un simple juego del ahorcado implementado en HTML, CSS y JavaScript. En este juego, tienes la oportunidad de adivinar palabras y mejorar tu vocabulario mientras te diviertes. 😄🔠
 
-##Cómo funciona 🕹️
+## Cómo funciona 🕹️
 
     Al cargar el juego, se seleccionará una palabra aleatoria de una lista de palabras predefinidas en español.
     La longitud de la palabra se mostrará en la pantalla para que tengas una idea de cuántas letras tiene la palabra a adivinar.
@@ -16,15 +16,15 @@ Este es un simple juego del ahorcado implementado en HTML, CSS y JavaScript. En 
     El contador de partidas terminadas correctamente se incrementará cada vez que ganes una partida.
     Puedes reiniciar el juego en cualquier momento haciendo clic en el botón "Reiniciar".
 
-##Cómo jugar 🎮
+## Cómo jugar 🎮
 
     Clona o descarga este repositorio en tu computadora.
     Abre el archivo index.html en tu navegador web.
     Sigue las instrucciones en pantalla para adivinar la palabra.
     ¡Diviértete y disfruta del juego!
 
-##Soporte y contacto 📧
+## Soporte y contacto 📧
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes visitar mi canal de YouTube [aquí](https://youtube.com/@Infor_mayo) para obtener más contenido relacionado con el desarrollo de juegos.
 
-##¡Espero que disfrutes jugando al Ahorcado Infor Mayo! 🤩🔠🎮
+## ¡Espero que disfrutes jugando al Ahorcado Infor Mayo! 🤩🔠🎮
