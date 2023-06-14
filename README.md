@@ -24,6 +24,6 @@ Cómo jugar 🎮
 
 Soporte y contacto 📧
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes visitar mi canal de YouTube [aquí](https://youtube.com/@Infor_mayo) para obtener más contenido relacionado con el desarrollo de juegos.
+    Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes visitar mi canal de YouTube [aquí](https://youtube.com/@Infor_mayo) para obtener más contenido relacionado con el desarrollo de juegos.
 
 ¡Espero que disfrutes jugando al Ahorcado Infor Mayo! 🤩🔠🎮
